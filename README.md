@@ -1,7 +1,6 @@
 # Meetup  Febrero Intro
 
-Este es el repositorio de lo visto durante el meetup de Pyladies Cuernavaca en Febrero 2024.
-En este repositorio encontraran las diapositivas y ejercicios que realizamos durante esta reunión. 
+Repositorio con el material visto en el meetup de Pyladies Cuernavaca en Febrero 2024.
 
 ` Si no has contestado la encuesta, te invitamos a hacerlo `
 Es este link: https://forms.gle/gNNWCUSB2xwEajtX6
